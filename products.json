@@ -26,7 +26,7 @@
             "id": 3,
             "Category": "Drugs",
             "subCategory": "Hair Vitamins",
-            "title": "D-Panthenol",
+            "title": "Suprastin",
             "img": "https://www.aversi.ge/uploads/matimg/806c9293f0fda69c7c36b2458539d9bc.png",
             "price": 6.20,
             "amount": "20 ml",
@@ -37,23 +37,23 @@
             "id": 5,
             "Category": "Drugs",
             "subCategory": "Hair Vitamins",
-            "title": "D-Panthenol",
+            "title": "Nurofen",
             "img": "https://www.aversi.ge/image.php?path=uploads/matimg/ec1f6512196c0adfe8d399c0de75f15d.png&width=500&height=",
             "price": 13.50,
             "amount": "20 ml",
             "review": 4,
-            "annotation": "Nurofen’s success is the result of over 30 years of research and development. We are experienced in pain relief, and we are here to help."
+            "annotation": "Nurofens success is the result of over 30 years of research and development. We are experienced in pain relief, and we are here to help."
         },
         {
             "id": 4,
             "Category": "Drugs",
             "subCategory": "Hair Vitamins",
-            "title": "D-Panthenol",
-            "img": "https://e7.pngegg.com/pngimages/559/282/png-clipart-mustela-stretch-marks-prevention-cream-bepanthen-stretch-mark-cream-panthenol-pregnancy-stretch-marks-cream-cosmetics-thumbnail.png",
+            "title": "Valokordin",
+            "img": "https://www.aversi.ge/uploads/matimg/15684b10cd5e5a57626d3f3c36adad06.png",
             "price": 28.30,
             "amount": "20 ml",
             "review": 5,
-            "annotation": "Panthenol is the alcohol analog of pantothenic acid, and is thus a provitamin of B₅. In organisms, it is quickly oxidized to pantothenic acid. It is a viscous transparent liquid at room temperature. Panthenol is used in pharmaceutical and cosmetic products as a moisturizer and to improve wound healing."
+            "annotation": "Hypersensitivity to the active substances or to any other component of the drug, acute hepatic porphyria, severe violations of the liver and kidneys, diabetes, depression, myasthenia gravis."
         }
 ]
 
