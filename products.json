@@ -8,41 +8,41 @@
             "img": "https://e7.pngegg.com/pngimages/559/282/png-clipart-mustela-stretch-marks-prevention-cream-bepanthen-stretch-mark-cream-panthenol-pregnancy-stretch-marks-cream-cosmetics-thumbnail.png",
             "price": 8.50,
             "amount": "20 ml",
-            "review": 4,
+            "review": 1,
             "annotation": "Panthenol is the alcohol analog of pantothenic acid, and is thus a provitamin of B₅. In organisms, it is quickly oxidized to pantothenic acid. It is a viscous transparent liquid at room temperature. Panthenol is used in pharmaceutical and cosmetic products as a moisturizer and to improve wound healing."
         },
         {
             "id": 2,
             "Category": "Drugs",
             "subCategory": "Hair Vitamins",
-            "title": "D-Panthenol",
-            "img": "https://e7.pngegg.com/pngimages/559/282/png-clipart-mustela-stretch-marks-prevention-cream-bepanthen-stretch-mark-cream-panthenol-pregnancy-stretch-marks-cream-cosmetics-thumbnail.png",
-            "price": 8.50,
+            "title": "Bi Fi Form",
+            "img": "https://www.aversi.ge/uploads/matimg/d1436dceafe15d3bd3c5b17828a83891.png",
+            "price": 18.30,
             "amount": "20 ml",
-            "review": 4,
-            "annotation": "Panthenol is the alcohol analog of pantothenic acid, and is thus a provitamin of B₅. In organisms, it is quickly oxidized to pantothenic acid. It is a viscous transparent liquid at room temperature. Panthenol is used in pharmaceutical and cosmetic products as a moisturizer and to improve wound healing."
+            "review": 2,
+            "annotation": "Bifiform user manualReed more and buy Bifiform on this pageCompositionBifiform consists of the following active substances - Bifidobacterium longum, Enterococcus faecium."
         },
         {
             "id": 3,
             "Category": "Drugs",
             "subCategory": "Hair Vitamins",
             "title": "D-Panthenol",
-            "img": "https://e7.pngegg.com/pngimages/559/282/png-clipart-mustela-stretch-marks-prevention-cream-bepanthen-stretch-mark-cream-panthenol-pregnancy-stretch-marks-cream-cosmetics-thumbnail.png",
-            "price": 8.50,
+            "img": "https://www.aversi.ge/uploads/matimg/806c9293f0fda69c7c36b2458539d9bc.png",
+            "price": 6.20,
             "amount": "20 ml",
-            "review": 4,
-            "annotation": "Panthenol is the alcohol analog of pantothenic acid, and is thus a provitamin of B₅. In organisms, it is quickly oxidized to pantothenic acid. It is a viscous transparent liquid at room temperature. Panthenol is used in pharmaceutical and cosmetic products as a moisturizer and to improve wound healing."
+            "review": 3,
+            "annotation": "CJSC Pharmaceutical plant EGIS, Hungary, Egis, Hungary, Allergic rhinitis, conjunctivitis, dermatosis, hay fever, bronchial asthma."
         },
         {
             "id": 5,
             "Category": "Drugs",
             "subCategory": "Hair Vitamins",
             "title": "D-Panthenol",
-            "img": "https://e7.pngegg.com/pngimages/559/282/png-clipart-mustela-stretch-marks-prevention-cream-bepanthen-stretch-mark-cream-panthenol-pregnancy-stretch-marks-cream-cosmetics-thumbnail.png",
-            "price": 8.50,
+            "img": "https://www.aversi.ge/image.php?path=uploads/matimg/ec1f6512196c0adfe8d399c0de75f15d.png&width=500&height=",
+            "price": 13.50,
             "amount": "20 ml",
             "review": 4,
-            "annotation": "Panthenol is the alcohol analog of pantothenic acid, and is thus a provitamin of B₅. In organisms, it is quickly oxidized to pantothenic acid. It is a viscous transparent liquid at room temperature. Panthenol is used in pharmaceutical and cosmetic products as a moisturizer and to improve wound healing."
+            "annotation": "Nurofen’s success is the result of over 30 years of research and development. We are experienced in pain relief, and we are here to help."
         },
         {
             "id": 4,
@@ -50,10 +50,11 @@
             "subCategory": "Hair Vitamins",
             "title": "D-Panthenol",
             "img": "https://e7.pngegg.com/pngimages/559/282/png-clipart-mustela-stretch-marks-prevention-cream-bepanthen-stretch-mark-cream-panthenol-pregnancy-stretch-marks-cream-cosmetics-thumbnail.png",
-            "price": 8.50,
+            "price": 28.30,
             "amount": "20 ml",
-            "review": 4,
+            "review": 5,
             "annotation": "Panthenol is the alcohol analog of pantothenic acid, and is thus a provitamin of B₅. In organisms, it is quickly oxidized to pantothenic acid. It is a viscous transparent liquid at room temperature. Panthenol is used in pharmaceutical and cosmetic products as a moisturizer and to improve wound healing."
         }
 ]
-} 
+
+}
